@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-forge-trainer
+Version: 0.1.0
+Summary: Forge trainer — GPU training job manager with LoRA/embedding/genome modes
+License: MIT
+Requires-Python: >=3.8
